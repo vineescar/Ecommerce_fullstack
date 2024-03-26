@@ -1,2 +1,2 @@
 ### Ecommerce_fullstack
-React,Expressjs,mongodb  combined project
+Reactjs,Expressjs,mongodb  combined project
